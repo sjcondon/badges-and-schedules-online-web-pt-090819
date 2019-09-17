@@ -3,9 +3,6 @@ def badge_maker
   counter = 1
   names.each do |names|
     puts "room number #{counter}"
-    puts ""
-  #
-  def batch_badge_creator
-    def assign_rooms
-      
-      #1-7 rooms
+    puts ""Hello, #{name}! You'll be assigned to room #{counter}!"
+ counter += 1
+ end
